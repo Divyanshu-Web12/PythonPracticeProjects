@@ -16,5 +16,4 @@ def guess_number(max_num):
         elif feedback == 'c':
             print("Computer's guess is correct !!")
 
-
 guess_number(10)
